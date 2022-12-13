@@ -3,7 +3,7 @@
 # What can you find in my github?
 
 
-### **`A Complete Guide to Machine Learning Models`** :
+### **`A -omplete-Guide-to-Machine-Learning-Models`** :
 
   - Beginner friendly **tutorial notebooks** on traditional machine learning models
   - The notebooks were once **gold metal notebooks** on Kaggle each with over 100 upvotes
