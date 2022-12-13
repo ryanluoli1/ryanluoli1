@@ -15,18 +15,18 @@
   - Three main areas: **hyperparameter tuning**, **feature engineering**, and **Data Preprocessing**
 
 
-### **`Machine-Learning-Books`** :
-
-  - **Books** I read on data science and machine learning 
-  - **Notes** I made when reading the books, including relevant codes
-
-
- ### **`Kaggle-Competitions`** :
+### **`Kaggle-Competitions`** :
  
   - **Solutions and codes** to the featured Kaggle competitions I completed
   - Each competition was **explained in detailed** and easy to understand without extra knowledge
  
  
- ### **` UCL-MSc-DSML`** :
+### **`Machine-Learning-Books`** :
+
+  - **Books** I read on data science and machine learning 
+  - **Notes** I made when reading the books, including relevant codes
+ 
+ 
+### **` UCL-MSc-DSML`** :
  
   - Lecture Notes, Coursework Solutions, Projects for the **MSc Data Science and Machine Learning** course I completed at **UCL**
