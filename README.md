@@ -21,6 +21,12 @@
   - Each competition was **explained in detailed** and easy to understand without extra knowledge
  
  
+### **[Introduction to Deep Learning](https://github.com/ryanluoli1/Introduction-to-Deep-Learning)** :
+ 
+  - Beginner friendly **Tutorial notebooks** on deep learning
+  - State-of-the-art deep learning **models and techniques** 
+
+
 ### **[Machine-Learning-Books](https://github.com/ryanluoli1/Machine-Learning-Books)** :
 
   - **Books** I read on data science and machine learning 
