@@ -1,4 +1,7 @@
-# What can you find in my github?
+<h1 align="center">👋 Welcome to my Github!</h1> 
+
+
+## What can you find in my github?
 
 
 ### **[A Complete Guide to Machine Learning Models](https://github.com/ryanluoli1/A-Complete-Guide-to-Machine-Learning-Models)**: 
