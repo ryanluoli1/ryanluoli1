@@ -5,3 +5,5 @@
 📝 I enjoy producing **tutorial notebooks (with codes)** on data science, machine learning and deep learning.
 
 🤩 I leverage ML and DL for solving challenges in **Multimodality Feature Extraction**, **NLP**, **CV**, **Data Mining** and **Finance**.
+
+<h4 align="center">More about me at: https://ryanluoli.notion.site</h4> 
