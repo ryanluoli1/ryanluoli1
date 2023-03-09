@@ -6,4 +6,6 @@
 
 🤩 I leverage ML and DL techniques for **Multimodality Feature Extraction**, **NLP**, **CV**, **Data Mining** and **Finance**.
 
-<h4 align="center">More about me at: https://ryanluoli.notion.site</h4> 
+<h4 align="center">More about me at: https://ryanluoli.notion.site</h4>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raynluoli1)](https://github.com/anuraghazra/github-readme-stats)
