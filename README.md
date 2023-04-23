@@ -1,5 +1,4 @@
 <h1 align="center">👋 Welcome!</h1> 
-<h4 align="center">- More about me at: https://ryanluoli.notion.site -</h4>
 
 👨‍🎓 I am currently studying **MSc Data Science and Machine Learning** at UCL.
 
